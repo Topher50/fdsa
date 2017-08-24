@@ -3,7 +3,7 @@
 
 #define NUM_LEDS 288
 #define DATA_PIN 6
-#define BRIGHTNESS 255
+#define BRIGHTNESS 128
 CRGB leds[NUM_LEDS];
 //#define LOG_OUT 1 // use the log output function
 #define OCTAVE 1
